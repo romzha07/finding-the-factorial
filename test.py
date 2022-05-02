@@ -5,4 +5,4 @@ def fact(f):
      else:
           return f*fact(f-1)
 
-print(f"Факториал {f} это: {fact(f)}")
+print(f"Факториал {f} равен: {fact(f)}")
